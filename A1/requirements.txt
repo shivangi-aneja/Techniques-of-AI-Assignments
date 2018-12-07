@@ -1,0 +1,12 @@
+Name: Shivangi Aneja
+Matrikelnummer:03693062
+
+I used Python 3.6.3. 
+I used the following packages in my code:
+(1) import sys
+(2) import collections
+(3) import string as strn
+(4) import json
+
+
+I did not install these packages. They are pre-installed in python.
